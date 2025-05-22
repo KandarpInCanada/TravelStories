@@ -9,7 +9,7 @@
 
 ## Overview
 
-Wanderlust is a modern, full-stack travel blog application built with the MERN stack (MongoDB, Express.js, React, Node.js). This project demonstrates enterprise-level DevSecOps practices with automated CI/CD pipelines, security scanning, and Kubernetes deployment on AWS EKS.
+TravelStories is a modern, full-stack travel blog application built with the MERN stack (MongoDB, Express.js, React, Node.js). This project demonstrates enterprise-level DevSecOps practices with automated CI/CD pipelines, security scanning, and Kubernetes deployment on AWS EKS.
 
 ### Key Features
 
@@ -21,6 +21,7 @@ Wanderlust is a modern, full-stack travel blog application built with the MERN s
 - **Security First**: OWASP dependency checking and Trivy vulnerability scanning
 
 ## Architecture
+![Architecture](https://github.com/user-attachments/assets/aca8615a-0cce-4ba4-9ef8-d26fc4aef6ec)
 
 ### Tech Stack
 
